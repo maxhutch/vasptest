@@ -13,4 +13,4 @@ ALGO = fast
 
 LWAVE=.FALSE.
 LCHARG=.FALSE.
-
+LREAL=A
