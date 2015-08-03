@@ -18,5 +18,6 @@ HFSCREEN = 0.2
 ALGO = All
 TIME = 0.4
 PRECFOCK = Fast
+LREAL=A
 
 !Don't set NPAR
